@@ -61,9 +61,9 @@ PORT=5000
 ✅ Optional but recommended for full marks
 
 🔗 Live URLs (replace with yours):
-Frontend (Vercel): https://your-chat-frontend.vercel.app
+Frontend (Netlify): [https://your-chat-frontend.vercel.app](https://harmonious-bavarois-2a63a6.netlify.app/chat)
 
-Backend (Render/Railway): https://your-chat-backend.onrender.com
+Backend (Render/Railway): [https://your-chat-backend.onrender.com](https://chat-backend-197i.onrender.com/)
 
 📝 How It Works
 Client connects to the backend via Socket.io
